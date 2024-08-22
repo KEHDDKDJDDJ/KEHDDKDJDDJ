@@ -432,9 +432,9 @@ end
 local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
     Name = "xxBlackxx",
-    Description = "Coppy community to receive information about the next update",
+    Description = "copie para informações de novos updates",
     Logo = "rbxassetid://18685184623",
-    Invite = "https://www.youtube.com/@xx.Black.xx01"
+    Invite = "tiktok.com/@meme_sea012"
   })
 end
 
