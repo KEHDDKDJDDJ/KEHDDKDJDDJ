@@ -430,7 +430,7 @@ local function AddToggle(Tab, Settings, Flag)
 end
 
 local _Discord = Tabs.Discord do
-  _Youtube:AddDiscordInvite({
+  _Discord:AddDiscordInvite({
     Name = "Cat Hub",
     Description = "copie para fazer parte de nossa comunidade e saber mais informações de novos updates",
     Logo = "rbxassetid://109363157520138",
