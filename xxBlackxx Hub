@@ -410,7 +410,7 @@ Window:AddMinimizeButton({
 })
 
 local Tabs = {
-  Discord = Window:MakeTab({"Discord", "Info"}),
+  Discord = Window:MakeTab({"Youtube", "Info"}),
   MainFarm = Window:MakeTab({"Farm", "Home"}),
   Items = Window:MakeTab({"Items", "Swords"}),
   Stats = Window:MakeTab({"Stats", "Signal"}),
@@ -429,7 +429,7 @@ local function AddToggle(Tab, Settings, Flag)
   Tab:AddToggle(Settings)
 end
 
-local _Discord = Tabs.Discord do
+local _Youtube = Tabs.Youtube do
   _Discord:AddDiscordInvite({
     Name = "Cat Hub",
     Description = "copie para fazer parte de nossa comunidade e saber mais informações de novos updates",
