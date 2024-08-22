@@ -1,7 +1,7 @@
 --[[
-  Dev: xxBlackxx
-  Lib: xxBlackxx
-  github: xxBlackxx
+  Dev: Cat Hub
+  Lib: Cat Hub
+  github: Cat Hub
   
   Game: Roblox-MemeSea
 ]]
@@ -403,7 +403,7 @@ if not _env.LoadedFarm then
 end
 
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Toilaai4141/Cac/main/source.lua%20(5).txt"))()
-local Window = redzlib:MakeWindow({ Title = "xxBlackxx Hub: Update1 :Meme Sea", SubTitle = "by _Black", SaveFolder = "redzHub-MemeSea.json" })
+local Window = redzlib:MakeWindow({ Title = "Cat Hub: Update1 :Meme Sea", SubTitle = "by _Cat", SaveFolder = "redzHub-MemeSea.json" })
 Window:AddMinimizeButton({
   Button = { Image = "rbxassetid://18897840821", BackgroundTransparency = 0 },
   Corner = { CornerRadius = UDim.new(0, 6) }
