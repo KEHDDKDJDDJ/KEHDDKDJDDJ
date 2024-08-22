@@ -431,10 +431,10 @@ end
 
 local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
-    Name = "xxBlackxx",
+    Name = "Cat Hub",
     Description = "copie para fazer parte de nossa comunidade e saber mais informações de novos updates",
-    Logo = "rbxassetid://109363157520138",
-    Invite = "tiktok.com/@meme_sea012"
+    Logo = "https://create.roblox.com/store/asset/109363157520138?externalSource=www",
+    Invite = "https://www.youtube.com/@Cat.Hub.ofc01"
   })
 end
 
