@@ -6,7 +6,7 @@
   Game: Roblox-MemeSea
 ]]
 
-local _wait = task.wait
+local _wait = task.wai
 repeat _wait() until game:IsLoaded()
 local _env = getgenv and getgenv() or {}
 
