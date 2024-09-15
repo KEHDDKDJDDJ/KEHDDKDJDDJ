@@ -431,10 +431,10 @@ end
 
 local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
-    Name = "Cat Hub",
+    Name = "blackX",
     Description = "copy for new updates information",
     Logo = "rbxassetid://18685184623",
-    Invite = "https://www.youtube.com/@Cat.Hub.ofc01"
+    Invite = "https://www.youtube.com/@BlackBl0x-u8d"
   })
 end
 
