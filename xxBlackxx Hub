@@ -405,7 +405,7 @@ end
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Toilaai4141/Cac/main/source.lua%20(5).txt"))()
 local Window = redzlib:MakeWindow({ Title = "BlackX.Beta", SubTitle = "by _black", SaveFolder = "redzHub-MemeSea.json" })
 Window:AddMinimizeButton({
-  Button = { Image = "rbxassetid://18897840821", BackgroundTransparency = 0 },
+  Button = { Image = "rbxassetid://94015814240603", BackgroundTransparency = 0 },
   Corner = { CornerRadius = UDim.new(0, 6) }
 })
 
@@ -433,8 +433,8 @@ local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
     Name = "blackX",
     Description = "copy for new updates information",
-    Logo = "rbxassetid://18685184623",
-    Invite = "https://www.youtube.com/@BlackBl0x-u8d"
+    Logo = "rbxassetid://94015814240603",
+    Invite = "https://www.youtube.com/@Sky.Hub_ofc"
   })
 end
 
