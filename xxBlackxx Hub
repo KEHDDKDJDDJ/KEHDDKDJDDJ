@@ -431,7 +431,7 @@ end
 
 local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
-    Name = "blackX",
+    Name = "SkyHub",
     Description = "copy for new updates information",
     Logo = "rbxassetid://94015814240603",
     Invite = "https://www.youtube.com/@Sky.Hub_ofc"
